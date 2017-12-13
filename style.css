@@ -1,0 +1,64 @@
+.header {
+  background-color: #CD5B45;
+  color:  #003366;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+h1 {
+  padding-bottom: 15px;
+}
+
+.navbar-links {
+  padding-top: 10px;
+  float: right;
+}
+
+.navbar-links a {
+  padding: 20px;
+  text-transform: uppercase;
+  color: #003366;
+}
+
+.navbar-links a:hover {
+  background-color: #eae2dc;
+  color: #003366;
+  text-decoration: none;
+}
+
+body {
+  background-image: url("./../images/background_pic.jpg");
+  background-size: cover;
+}
+
+.container {
+  color:  #003366;
+}
+
+img {
+  border-radius: 50px;
+  margin-top: 70px;
+}
+
+p {
+  text-align: center;
+  font-size: 25px;
+}
+
+.homepage-circles {
+  background-color: #CD5B45;
+  border-radius: 50px;
+  height: 330px;
+  margin: 10px;
+  margin-top: 70px;
+  margin-right: 20px;
+  padding: 20px;
+}
+
+h6 {
+  font-style: italic;
+}
+
+.skills-education{
+  margin-top: 30px;
+}
