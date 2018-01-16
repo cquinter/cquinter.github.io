@@ -1,4 +1,4 @@
-.header {
+.header .row {
   background-color: #b0e0e6;
   color:  #003366;
   padding-top: 20px;
@@ -76,7 +76,7 @@ h6 {
   text-align: center;
   font-style: italic;
   margin-top: 50px;
-  width: 300px;
+  max-width: 300px;
 }
 
 .dad {
@@ -88,7 +88,7 @@ h6 {
   font-size: 18px;
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   margin-top: 50px;
-  width: 600px;
+  max-width: 600px;
 }
 
 /* Hide the icon that should open and close the topnav on small screens */
