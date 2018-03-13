@@ -32,7 +32,7 @@ body {
   background-size: cover;
 }
 
-.picture img {
+.my-picture img {
   border-radius: 50px;
   margin-top: 60px;
   height: 340px;
@@ -75,7 +75,7 @@ h6 {
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   text-align: center;
   font-style: italic;
-  margin-top: 50px;
+  margin-top: 25px;
   max-width: 300px;
 }
 
@@ -87,8 +87,33 @@ h6 {
   color:  #003366;
   font-size: 18px;
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-  margin-top: 50px;
+  margin-top: 25px;
   max-width: 600px;
+}
+
+.resume {
+  margin-top: 60px;
+}
+
+.ref-picture img {
+  border-radius: 30px;
+  height: 200px;
+  width: 190px;
+  margin-top: 20px;
+  margin-left: 82px;
+}
+
+.ref-info {
+  font-size: 15px;
+}
+
+.ref-quote {
+  color:  #003366;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 10px;
+  width: 350px;
 }
 
 /* Hide the icon that should open and close the topnav on small screens */
