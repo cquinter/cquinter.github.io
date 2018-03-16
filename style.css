@@ -121,7 +121,7 @@ h6 {
   display: none;
 }
 
-/* When the screen is less than 600 pixels wide, hide all links. Show the icon that should open and close the topnav */
+/* When the screen is less than 767 pixels wide, hide all links. Show the icon that should open and close the topnav */
 @media screen and (max-width: 767px) {
   h1 {
     padding-bottom: 0px;
